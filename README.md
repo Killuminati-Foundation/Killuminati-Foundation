@@ -11,8 +11,8 @@ Copyright (c) 2011-2014 Killuminati Developers<br>
 
 Killuminati is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - subsidy halves in 210k blocks (~1 years)
+ - ~21 million total coins
  - 50 coins per block
  - 1 blocks to retarget difficulty
  - KGW Implemented
