@@ -2,13 +2,12 @@
 ================================
 Copyright (c) 2009-2013 Bitcoin Developers<br>
 Copyright (c) 2011-2013 Litecoin Developers<br>
-Copyright (c) 2013-2013 Gamerscoin Developers<br>
 Copyright (c) 2011-2014 Killuminati Developers<br>
 
 #What is Killuminati?
 ----------------
 
-![Killuminati](http://i.imgur.com/moytVJA.png](http://i.imgur.com/Nfb8DQx.png)
+![Killuminati](http://i.imgur.com/moytVJA.png)(http://i.imgur.com/Nfb8DQx.png)
 
 Killuminati is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
