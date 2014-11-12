@@ -7,7 +7,7 @@ Copyright (c) 2011-2014 Killuminati Developers<br>
 #What is Killuminati?
 ----------------
 
-![Killuminati](http://i.imgur.com/moytVJA.png)(http://i.imgur.com/Nfb8DQx.png)
+![Killuminati](http://i.imgur.com/moytVJA.png)
 
 Killuminati is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
@@ -19,7 +19,6 @@ Killuminati is a lite version of Bitcoin using scrypt as a proof-of-work algorit
 
 #License
 -------
-
 Killuminati is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
