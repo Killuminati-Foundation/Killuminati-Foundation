@@ -60,12 +60,12 @@ Note: Debian testing and unstable require libboost1.54-all-dev.
 
 ###Compile the daemon
 ```
-git clone https://github.com/killuminati/killuminati
+git clone https://github.com/Killuminati-Foundation/Killuminati-Foundation
 ```
 
 ###Compile killuminatid
 ```
-cd killuminati/src/
+cd Killuminati-Foundation/src/
 make -f makefile.unix USE_UPNP=1 USE_QRCODE=1 USE_IPV6=1
 strip killuminatid
 ```
@@ -74,9 +74,9 @@ strip killuminatid
 ```
 adduser killuminati && usermod -g users killuminati && delgroup killuminati && chmod 0701 /home/killuminati
 mkdir /home/killuminati/bin
-cp ~/killuminati/src/killuminatid /home/killuminati/bin/killuminatid
+cp ~/Killuminati-Foundation/src/killuminatid /home/killuminati/bin/killuminatid
 chown -R killuminati:users /home/killuminati/bin
-cd && rm -rf killuminati
+cd && rm -rf Killuminati-Foundation
 ```
 
 ###Run the daemon
